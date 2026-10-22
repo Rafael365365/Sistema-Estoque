@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+// .
 typedef struct
 {
     int codigo;
